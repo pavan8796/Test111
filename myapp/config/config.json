@@ -1,0 +1,7 @@
+{
+    "mongodb":{
+        "localHost": "localhost",
+        "localPort": "27017",
+        "localDatabase": "phoneBook"
+    }
+}
